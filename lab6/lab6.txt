@@ -1,3 +1,0 @@
-Hola
-este es un test
-para añadir un .txt al repo remoto desde mi pc
